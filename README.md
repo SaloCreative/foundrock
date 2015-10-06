@@ -1,5 +1,5 @@
 # foundrock
-WordPress example using composer to manage themes and plugins. This is based on [roots/bedrock](https://github.com/roots/bedrock) project. Also has a stripped back theme created with Foundation Framework fromZurb.
+WordPress site using composer to manage themes and plugins. This uses [roots/bedrock](https://github.com/roots/bedrock) to install and manage WordPress Environments. The site theme is a stripped back theme created with the Foundation Framework from Zurb.
 
 #Features
 
